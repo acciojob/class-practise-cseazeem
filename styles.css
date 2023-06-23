@@ -1,1 +1,4 @@
-/*  your css code here. If applicable */
+p:nth-child(odd){
+	background-color: #eee;
+	color:#00f;
+}
